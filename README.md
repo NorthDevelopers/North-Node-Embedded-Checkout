@@ -3,8 +3,8 @@
 This is a Node.js/Express backend application that demonstrates a unified payment session server using [North's Embedded Checkout](https://developer.north.com/products/online/embedded-checkout). The code in this repository acts as the secure server that securely generates checkout sessions and verifies transaction status, protecting API keys and credentials.
 
 It is designed to serve as the backend for both companion React frontend repositories:
-- [North-React-Browser-Post-API-With-Shopping-Cart](https://github.com/NorthDevelopers/North-React-Browser-Post-API-With-Shopping-Cart) — React ecommerce shopping cart frontend.
-- [North-React-Browser-Post-API-Without-Shopping-Cart](https://github.com/NorthDevelopers/North-React-Browser-Post-API-Without-Shopping-Cart) — React single-item direct purchase frontend.
+- [North-React-Embedded-Checkout-With-Shopping-Cart](https://github.com/NorthDevelopers/North-React-Embedded-Checkout-With-Shopping-Cart) — React ecommerce shopping cart frontend.
+- [North-React-Embedded-Checkout-Without-Shopping-Cart](https://github.com/NorthDevelopers/North-React-Embedded-Checkout-Without-Shopping-Cart) — React single-item direct purchase frontend.
 
 ## Get Sandbox Credentials
 
